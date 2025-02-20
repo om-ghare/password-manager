@@ -1,4 +1,4 @@
-# 🔐 Password Manager
+# 🔐 Password Manager - PassVault
 
 ## 📌 Overview
 A **secure and efficient Password Manager** built using **ReactJS, Tailwind CSS, ExpressJS and MongoDB**. It allows users to add, store, edit, manage, and retrieve passwords with a user-friendly interface.
