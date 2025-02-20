@@ -11,7 +11,7 @@ A **secure and efficient Password Manager** built using **ReactJS, Tailwind CSS,
 - 🔍 **Table functionality** to view saved credentials easily
 - 📋 **Clipboard copy support** for quick access
 - 🎨 **Modern UI with Tailwind CSS**
-- 🌍 **Deployed backend with MongoDB**
+- 🌍 **Deployed backend with MongoDB and ExpressJS**
 
 ---
 
@@ -19,6 +19,12 @@ A **secure and efficient Password Manager** built using **ReactJS, Tailwind CSS,
 - **Frontend:** ReactJS, Tailwind CSS
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
+
+---
+
+
+🔗 **Live Demo:** 
+[PassVault - Your Password Manager](https://passvault-omghare.vercel.app/)
 
 ---
 
@@ -53,7 +59,3 @@ npm run dev
 ## 📜 License
 This project is published under the **MIT License**.
 
----
-
-🔗 **Live Demo:** 
-[PassVault - Your Password Manager]([https://passvault-omghare.vercel.app/])
